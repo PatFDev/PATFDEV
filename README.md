@@ -1,7 +1,7 @@
 <h1 align="center">What's Up? 👋, I'm Pat!</h1>
 <h3 align="center">Currently Studying Computer Science At Suffolk Community College</h3>
 
-- 🌱 I’m currently learning **Java and JavaScript**
+- 🌱 I’m currently learning **Java, JavaScript and Swift**
 
 - 🧠 Interested in Web3.0
 
